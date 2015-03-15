@@ -18,7 +18,7 @@
         DigitalVerve - Digital Solutions
     </author>
 	
-    <preference name="phonegap-version" value="3.5.0" />
+    <preference name="phonegap-version" value="3.6.3" />
 	
     <preference name="orientation"                value="portrait" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: iPhone / possible values handset, tablet, or universal -->
